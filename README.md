@@ -12,9 +12,9 @@ ALR-SHIP contains 367 GF-3 offshore SLC scenes collected from multiple regions d
 | Azimuth-resolution settings | 87.5 m, 175 m, 262.5 m, 350 m |
 | Patch images per resolution | 2,978 |
 | Ship instances per resolution | 4,032 |
-| Training / test scenes | 300 / 67 |
-| Training / test patches | 2,082 / 896 |
-| Training / test instances | 2,753 / 1,279 |
+| Train / test scenes | 300 / 67 |
+| Train / test patches | 2,082 / 896 |
+| Train / test instances | 2,753 / 1,279 |
 
 ### Auxiliary Sea-State Distribution
 
